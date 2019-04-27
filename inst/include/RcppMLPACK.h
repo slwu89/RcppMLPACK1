@@ -37,6 +37,7 @@
 #include <mlpack/methods/amf/termination_policies/simple_residue_termination.hpp>
 #include <mlpack/methods/cf/cf.hpp>
 #include <mlpack/methods/det/dt_utils.hpp>
+#include <mlpack/methods/det/dtree.hpp>
 #include <mlpack/methods/decision_stump/decision_stump.hpp>
 #include <mlpack/methods/emst/union_find.hpp>
 #include <mlpack/methods/emst/dtb.hpp>
